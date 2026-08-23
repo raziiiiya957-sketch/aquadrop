@@ -2,7 +2,11 @@
   "name": "AquaDrop App",
   "short_name": "AquaDrop",
   "description": "An interactive sketch application built for mobile.",
-  "start_url": "/raziiiya957-sketch/",
+  "start_url": "/aquadrop/",
+  "id": "/aquadrop/",
+  "dir": "auto",
+  "lang": "en",
+  "orientation": "any",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -10,7 +14,8 @@
     {
       "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
